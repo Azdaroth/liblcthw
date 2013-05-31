@@ -1,0 +1,294 @@
+DEBUG bstree_hash_tests.c:183: ----- RUNNING: ./bstree_hash_tests
+DEBUG bstree_hash_tests.c:173: 
+----- test_create
+DEBUG bstree_hash_tests.c:174: 
+----- test_get_set
+DEBUG bstree_hash_tests.c:175: 
+----- test_traverse
+DEBUG bstree_hash_tests.c:19: KEY: tests data 3
+DEBUG bstree_hash_tests.c:19: KEY: tests data 2
+DEBUG bstree_hash_tests.c:19: KEY: tests data 1
+DEBUG bstree_hash_tests.c:27: KEY: tests data 3
+DEBUG bstree_hash_tests.c:27: KEY: tests data 2
+DEBUG bstree_hash_tests.c:176: 
+----- test_delete
+DEBUG bstree_hash_tests.c:177: 
+----- test_destroy
+DEBUG bstree_hash_tests.c:178: 
+----- test_fuzzing
+DEBUG bstree_iter_tests.c:168: ----- RUNNING: ./bstree_iter_tests
+DEBUG bstree_iter_tests.c:158: 
+----- test_create
+DEBUG bstree_iter_tests.c:159: 
+----- test_get_set
+DEBUG bstree_iter_tests.c:160: 
+----- test_traverse
+DEBUG bstree_iter_tests.c:19: KEY: tests data 3
+DEBUG bstree_iter_tests.c:19: KEY: tests data 2
+DEBUG bstree_iter_tests.c:19: KEY: tests data 1
+DEBUG bstree_iter_tests.c:27: KEY: tests data 3
+DEBUG bstree_iter_tests.c:27: KEY: tests data 2
+DEBUG bstree_iter_tests.c:161: 
+----- test_delete
+DEBUG bstree_iter_tests.c:162: 
+----- test_destroy
+DEBUG bstree_iter_tests.c:163: 
+----- test_fuzzing
+DEBUG bstree_tests.c:182: ----- RUNNING: ./bstree_tests
+DEBUG bstree_tests.c:172: 
+----- test_create
+DEBUG bstree_tests.c:173: 
+----- test_get_set
+DEBUG bstree_tests.c:174: 
+----- test_traverse
+DEBUG bstree_tests.c:19: KEY: tests data 3
+DEBUG bstree_tests.c:19: KEY: tests data 2
+DEBUG bstree_tests.c:19: KEY: tests data 1
+DEBUG bstree_tests.c:27: KEY: tests data 3
+DEBUG bstree_tests.c:27: KEY: tests data 2
+DEBUG bstree_tests.c:175: 
+----- test_delete
+DEBUG bstree_tests.c:176: 
+----- test_destroy
+DEBUG bstree_tests.c:177: 
+----- test_fuzzing
+DEBUG darray_algos_tests.c:140: ----- RUNNING: ./darray_algos_tests
+DEBUG darray_algos_tests.c:129: 
+----- test_qusort
+DEBUG darray_algos_tests.c:40: --- Testing qusort sorting algorithm
+DEBUG darray_algos_tests.c:130: 
+----- test_lcthw_mergesort
+DEBUG darray_algos_tests.c:40: --- Testing lcthw_mergesort sorting algorithm
+DEBUG darray_algos_tests.c:132: 
+----- test_choose_sort_type_qusort
+DEBUG darray_algos_tests.c:133: 
+----- test_choose_sort_type_lcthw_mergesort
+DEBUG darray_algos_tests.c:134: 
+----- test_add_and_sort
+DEBUG darray_algos_tests.c:135: 
+----- test_daaray_find
+DEBUG darray_tests.c:125: ----- RUNNING: ./darray_tests
+DEBUG darray_tests.c:114: 
+----- test_create
+DEBUG darray_tests.c:115: 
+----- test_new
+DEBUG darray_tests.c:116: 
+----- test_set
+DEBUG darray_tests.c:117: 
+----- test_get
+DEBUG darray_tests.c:118: 
+----- test_remove
+DEBUG darray_tests.c:119: 
+----- test_expand_contract
+DEBUG darray_tests.c:120: 
+----- test_destroy
+FNV	A32	DJB	JENKINS	AZDAROTH
+92	104	125	104	102
+107	91	101	122	80
+98	98	95	94	92
+105	93	79	100	105
+99	116	95	90	97
+103	106	103	93	85
+102	89	90	123	106
+102	95	107	119	99
+91	89	113	86	102
+91	107	95	90	91
+108	90	98	112	116
+99	83	84	85	93
+98	93	100	110	98
+84	105	91	98	113
+93	99	93	117	106
+110	89	99	99	103
+106	113	92	95	88
+88	95	98	81	95
+115	107	114	96	101
+120	107	115	72	120
+107	101	101	105	120
+109	86	87	96	84
+89	92	111	91	110
+94	93	110	96	100
+94	107	101	98	104
+91	107	92	93	102
+85	118	106	96	101
+91	107	90	108	106
+109	94	78	117	100
+87	109	97	113	90
+100	76	98	98	100
+99	103	108	98	114
+93	85	88	112	113
+85	102	102	109	84
+92	110	101	107	99
+84	95	91	98	101
+90	109	103	117	95
+108	82	108	101	106
+107	82	105	98	113
+84	104	98	82	99
+100	99	98	86	101
+101	95	101	102	108
+117	107	106	87	105
+100	121	92	120	94
+103	74	117	123	98
+87	86	98	109	91
+112	104	95	86	103
+98	99	91	123	76
+110	113	94	93	98
+121	101	109	84	113
+103	103	112	106	94
+117	116	115	90	95
+105	93	99	92	112
+102	101	112	103	108
+114	96	92	103	106
+100	93	89	78	85
+73	94	119	106	95
+102	107	93	103	113
+94	98	103	90	117
+96	96	75	111	99
+99	96	110	92	115
+99	83	107	95	99
+118	106	99	111	100
+116	92	99	89	120
+123	134	98	98	107
+113	90	95	102	82
+101	103	97	101	88
+76	90	112	112	93
+87	108	100	105	98
+98	103	109	100	93
+91	85	91	97	97
+105	100	99	90	93
+97	105	121	114	84
+105	118	106	107	99
+103	101	99	97	120
+103	97	97	91	95
+82	117	108	93	99
+106	95	96	107	97
+102	110	114	101	100
+80	94	107	70	120
+126	121	101	108	105
+97	103	108	80	97
+97	102	96	108	110
+99	90	98	95	98
+94	106	94	102	104
+113	91	100	122	85
+117	106	92	105	105
+85	91	75	94	107
+109	90	100	87	90
+86	84	93	102	87
+94	97	83	105	104
+88	95	100	96	101
+106	105	115	96	95
+100	133	92	112	95
+112	95	97	88	102
+102	95	113	90	105
+106	113	109	90	85
+104	111	98	107	88
+98	108	95	122	105
+99	110	105	105	89
+DEBUG hashmap_tests.c:161: ----- RUNNING: ./hashmap_tests
+DEBUG hashmap_tests.c:152: 
+----- test_create
+DEBUG hashmap_tests.c:153: 
+----- test_get_set
+DEBUG hashmap.c:161: TRY: 0
+DEBUG hashmap.c:161: TRY: 0
+DEBUG hashmap.c:161: TRY: 0
+DEBUG hashmap.c:161: TRY: 0
+DEBUG hashmap_tests.c:154: 
+----- test_traverse
+DEBUG hashmap_tests.c:18: KEY: test data 3
+DEBUG hashmap_tests.c:18: KEY: test data 1
+DEBUG hashmap_tests.c:18: KEY: test data 2
+DEBUG hashmap_tests.c:25: KEY: test data 3
+DEBUG hashmap_tests.c:25: KEY: test data 1
+DEBUG hashmap_tests.c:155: 
+----- test_delete
+DEBUG hashmap.c:161: TRY: 0
+DEBUG hashmap.c:161: TRY: 0
+DEBUG hashmap.c:161: TRY: 0
+DEBUG hashmap_tests.c:156: 
+----- test_destroy
+DEBUG list_tests.c:153: ----- RUNNING: ./list_tests
+DEBUG list_tests.c:140: 
+----- test_create
+DEBUG list_tests.c:141: 
+----- test_push_pop
+DEBUG list_tests.c:142: 
+----- test_unshift
+DEBUG list_tests.c:143: 
+----- test_remove
+DEBUG list_tests.c:144: 
+----- test_shift
+DEBUG list_tests.c:145: 
+----- test_destroy
+DEBUG list_tests.c:146: 
+----- test_copy
+DEBUG list_tests.c:147: 
+----- test_join
+DEBUG queue_tests.c:60: ----- RUNNING: ./queue_tests
+DEBUG queue_tests.c:53: 
+----- test_create
+DEBUG queue_tests.c:54: 
+----- test_send_recv
+DEBUG queue_tests.c:37: VAL: test1 data
+DEBUG queue_tests.c:37: VAL: test2 data
+DEBUG queue_tests.c:37: VAL: test3 data
+DEBUG queue_tests.c:55: 
+----- test_destroy
+DEBUG radixmap_tests.c:103: ----- RUNNING: ./radixmap_tests
+DEBUG radixmap_tests.c:98: 
+----- test_operations
+DEBUG ringbuffer_tests.c:161: ----- RUNNING: ./ringbuffer_tests
+DEBUG ringbuffer_tests.c:152: 
+----- test_create
+DEBUG ringbuffer_tests.c:153: 
+----- test_read_write
+DEBUG ringbuffer_tests.c:154: 
+----- test_commits
+DEBUG ringbuffer_tests.c:155: 
+----- test_gets_and_get_all
+DEBUG ringbuffer_tests.c:156: 
+----- test_destroy
+DEBUG stack_darray_tests.c:60: ----- RUNNING: ./stack_darray_tests
+DEBUG stack_darray_tests.c:53: 
+----- test_create
+DEBUG stack_darray_tests.c:54: 
+----- test_push_pop
+DEBUG stack_darray_tests.c:37: VAL: test3 data
+DEBUG stack_darray_tests.c:37: VAL: test2 data
+DEBUG stack_darray_tests.c:37: VAL: test1 data
+DEBUG stack_darray_tests.c:55: 
+----- test_destroy
+DEBUG stack_tests.c:60: ----- RUNNING: ./stack_tests
+DEBUG stack_tests.c:53: 
+----- test_create
+DEBUG stack_tests.c:54: 
+----- test_push_pop
+DEBUG stack_tests.c:37: VAL: test3 data
+DEBUG stack_tests.c:37: VAL: test2 data
+DEBUG stack_tests.c:37: VAL: test1 data
+DEBUG stack_tests.c:55: 
+----- test_destroy
+DEBUG stats_tests.c:71: ----- RUNNING: ./stats_tests
+DEBUG stats_tests.c:65: 
+----- test_operations
+sum: 55.846019, sumsq: 425.164097, n: 10, min: 0.333348, max: 9.678320, mean: 5.584602, stddev: 3.547868DEBUG stats_tests.c:66: 
+----- test_recreate
+DEBUG string_algos_stats_tests.c:166: ----- RUNNING: ./string_algos_stats_tests
+DEBUG string_algos_stats_tests.c:154: 
+----- test_find_and_scan
+DEBUG string_algos_tests.c:143: ----- RUNNING: ./string_algos_tests
+DEBUG string_algos_tests.c:131: 
+----- test_find_and_scan
+DEBUG tstree_tests.c:107: ----- RUNNING: ./tstree_tests
+DEBUG tstree_tests.c:98: 
+----- test_insert
+DEBUG tstree_tests.c:99: 
+----- test_search_exact
+DEBUG tstree_tests.c:100: 
+----- test_search_prefix
+DEBUG tstree_tests.c:54: result: 0x10b64d490, expected: 0x10b64d490
+DEBUG tstree_tests.c:58: result: 0x10b64d4a5, expected: 0x10b64d490
+DEBUG tstree_tests.c:101: 
+----- test_traverse
+DEBUG tstree_tests.c:82: traverse count is: 4
+DEBUG tstree_tests.c:102: 
+----- test_destroy

@@ -1,0 +1,14 @@
+cc -shared -o list.so list.o
+cc -shared -o list_algos.so list_algos.o
+cc -shared -o darray.so darray.o
+cc -shared -o darray_algos.so darray_algos.o
+cc -shared -o radixmap.so radixmap.o
+cc -shared -o hashmap.so hashmap.o
+cc -shared -o hashmap_al.so hashmap_algos.o
+cc -shared -o string_algos.so string_algos.o
+cc -shared -o bstree.so bstree.o
+cc -shared -o stats.so stats.o
+cc -shared -o ringbuffer.so ringbuffer.o
+cc -shared -o netclient.so netclient.o
+cc -shared -o tstree.so tstree.o
+cc -shared -o tstree_mod.so tstree_mod.o
